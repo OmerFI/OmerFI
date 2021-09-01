@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Javascript
+
+
+![]()
+![](https://img.shields.io/youtube/channel/subscribers/UCXp5RW0NaNZ_7GJeU-hTxUA?style=for-the-badge&logo=youtube&label=Youtube&color=blue)
+
+![](https://github-readme-stats.vercel.app/api?username=OmerFI&show_icons=true&theme=tokyonight)
