@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Javascript
-
 
 ![]()
 ![](https://img.shields.io/youtube/channel/subscribers/UCXp5RW0NaNZ_7GJeU-hTxUA?style=for-the-badge&logo=youtube&label=Youtube&color=blue)
