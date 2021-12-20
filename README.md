@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ömer Furkan İşleyen</h1>
 <h4 align="center" >19 y/o Software Developer </h2>
 
-<h3 >Software Developer, Cyber Security Learner, CTF Solver
+<h3 >Software Developer, Cyber Security Researcher
 
 My experiences are including:
 - 1-1.5 year working and proven software development experience.
