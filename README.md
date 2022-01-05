@@ -32,6 +32,7 @@ My experiences are including:
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="30" height="30"/>  
 <img src="https://wiki.postgresql.org/images/9/9a/PostgreSQL_logo.3colors.540x557.png" alt="postgresql" width=30 height=30/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width=30 height=30/>
+<img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt5a54f1ac0a58f1a1/5ea8c80f4d8c1963bdceefef/brand-elastic-glyph-220x130.svg" alt="elasticsearch" width=30 height=30/>
 
 </p>
 
