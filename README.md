@@ -4,7 +4,7 @@
 <h3 >Software Developer, Cyber Security Researcher
 
 My experiences are including:
-- 1-1.5 year working and proven software development experience.
+- 1.5 year working and proven software development experience.
 - Python - C# - HTML - CSS - JS.
 - Experience with third-party libraries and APIs.
 - Knowledge of modern software development, trends, and the latest technologies.
