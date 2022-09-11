@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ömer Furkan İşleyen</h1>
-<h4 align="center" >19 y/o Software Developer </h2>
+<h4 align="center" >19 y/o Software Developer </h4>
 
-<h3 >Software Developer, Cyber Security Researcher
+<h3>Software Developer, Cyber Security Researcher
 
 My experiences are including:
 - 1.5 years of working and proven software development experience.
@@ -12,14 +12,14 @@ My experiences are including:
 - Solid understanding of code versioning tools such as Git.
 - Experience with tools such as Trello, Notion, Figma. </h3>
 
-<h3 align="center">Connect with me:</h2>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/omerfi"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://omerfi.medium.com/"><img src="https://img.shields.io/badge/medium-9146FF.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCXp5RW0NaNZ_7GJeU-hTxUA"><img src="https://img.shields.io/badge/youtube-9116EF.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h2>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
