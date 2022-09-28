@@ -3,14 +3,14 @@
 
 <h3>Software Developer, Cyber Security Researcher
 
-My experiences are including:
-- 1.5 years of working and proven software development experience.
-- Python - C# - HTML - CSS - JS.
+My experiences include:
+- 2+ years of working and proven software development experience.
+- Python - HTML - CSS - JS - C#
 - Experience with third-party libraries and APIs.
 - Knowledge of modern software development, trends, and the latest technologies.
-- Experience working with remote data via REST, JSON.
+- Experience working with remote data via REST, and JSON.
 - Solid understanding of code versioning tools such as Git.
-- Experience with tools such as Trello, Notion, Figma. </h3>
+- Experience with tools such as Trello, Notion, and Figma. </h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -32,7 +32,6 @@ My experiences are including:
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="30" height="30"/>  
 <img src="https://wiki.postgresql.org/images/9/9a/PostgreSQL_logo.3colors.540x557.png" alt="postgresql" width=30 height=30/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width=30 height=30/>
-<img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt5a54f1ac0a58f1a1/5ea8c80f4d8c1963bdceefef/brand-elastic-glyph-220x130.svg" alt="elasticsearch" width=30 height=30/>
 
 </p>
 
