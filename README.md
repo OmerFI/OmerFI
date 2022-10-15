@@ -8,9 +8,9 @@ My experiences include:
 - Python - HTML - CSS - JS - C#
 - Experience with third-party libraries and APIs.
 - Knowledge of modern software development, trends, and the latest technologies.
-- Experience working with remote data via REST, and JSON.
+- Experience working with remote data via REST.
 - Solid understanding of code versioning tools such as Git.
-- Experience with tools such as Trello, Notion, and Figma. </h3>
+- Experience with tools such as Trello, and Figma. </h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
