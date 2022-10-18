@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ömer Furkan İşleyen</h1>
 <h4 align="center" >19 y/o Software Developer </h4>
 
-<h3>Software Developer, Cyber Security Researcher
+<h3>Software Developer, Cyber Security Researcher</h3>
 
 My experiences include:
 - 2+ years of working and proven software development experience.
@@ -10,7 +10,7 @@ My experiences include:
 - Knowledge of modern software development, trends, and the latest technologies.
 - Experience working with remote data via REST.
 - Solid understanding of code versioning tools such as Git.
-- Experience with tools such as Trello, and Figma. </h3>
+- Experience with tools such as Trello, and Figma.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
