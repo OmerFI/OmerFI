@@ -4,13 +4,15 @@
 <h3>Software Developer, Cyber Security Researcher</h3>
 
 My experiences include:
-- 2+ years of working and proven software development experience.
+- 3+ years of working and proven software development experience.
 - Python - HTML - CSS - JS - C#
 - Experience with third-party libraries and APIs.
 - Knowledge of modern software development, trends, and the latest technologies.
 - Experience working with remote data via REST.
 - Solid understanding of code versioning tools such as Git.
-- Experience with tools such as Jira, Trello, and Figma.
+- Experience with tools such as Jira, Linear, Trello, and Figma.
+
+> _I use ubuntu btw._
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
