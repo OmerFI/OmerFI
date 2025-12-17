@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ömer Furkan İşleyen</h1>
-<h4 align="center" >21 y/o Software Developer </h4>
+<h4 align="center" >23 y/o Software Developer </h4>
 
 <h3>Software Developer, Cyber Security Researcher</h3>
 
 My experiences include:
-- 3+ years of working and proven software development experience.
-- Python - HTML - CSS - JS - C#
+- 4+ years of working and proven software development experience.
+- Python - JS - HTML / CSS - C#
 - Experience with third-party libraries and APIs.
 - Knowledge of modern software development, trends, and the latest technologies.
 - Experience working with remote data via REST.
@@ -25,10 +25,10 @@ My experiences include:
 <p align="center">
  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="30" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="30" height="30"/>  
